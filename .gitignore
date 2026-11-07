@@ -1,0 +1,15 @@
+
+.gradle/
+build/
+*/build/
+local.properties
+.idea/
+*.iml
+
+# Android signing files
+*.jks
+*.keystore
+
+# Generated files
+*.apk
+*.aab
